@@ -1,7 +1,7 @@
 README
 
 Project: 美团骑手智能聚类与差异化派单策略  
-Author: 白琪豫
+Author: 
 Email: qingxiwhite@outlook.com
 Date: 2025-8
 
